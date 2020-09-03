@@ -1,0 +1,10 @@
+.container{
+    width:400px;
+    margin: 200px auto 0;
+}
+.add-btn,.select-text{
+    margin-top: 20px;
+}
+.select-container{
+    padding:20px 0;
+}
