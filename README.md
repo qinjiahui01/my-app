@@ -29,4 +29,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # 效果图
 
-![image-20200903154016319](assets/image-20200903154016319.png)
+![image-20200903154507296](assets/image-20200903154507296.png)
